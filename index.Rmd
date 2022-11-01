@@ -12,6 +12,6 @@ Welcome to my page!
 I am a 2nd year MPH student at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/)
 
 
-Here's a direct link to my resume : [Resume](about.html)
+Here's a direct link to my [Resume](about.html)
 
 
