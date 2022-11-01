@@ -8,8 +8,11 @@ output:
 
 # This is Rhea Pawar's website
 
-Welcome to my page!
-I am a 2nd year MPH student at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/)
+#### Welcome to my website!
+I am a dentist from India and am currently in the 2nd year of the MPH program at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/).
+
+This website was created by me to provide you with an insight of my academic background and professional experience.
+It includes links for navigating to my GitHub account, LinkedIn and my email address. It also includes my Resume and a flexdashboard I created.
 
 
 Here's a direct link to my [Resume](about.html)
