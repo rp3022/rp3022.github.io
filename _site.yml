@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<rp3022@columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/rp3022/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/rhea-pawar/ 
+output:
+  html_document:
+    theme: cerulean

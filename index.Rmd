@@ -1,0 +1,17 @@
+---
+title: "Rhea Pawar"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Rhea Pawar's website
+
+Welcome to my page!
+I am a 2nd year MPH student at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/)
+
+
+Here's a direct link to my resume : [Resume](about.html)
+
+
