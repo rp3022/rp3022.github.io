@@ -17,4 +17,4 @@ It includes links for navigating to my GitHub account, LinkedIn and my email add
 
 Here's a direct link to my [Resume](Resume.html)
 
-
+Here's a direct link to the [Plotly flexdashboard](plotly.html)

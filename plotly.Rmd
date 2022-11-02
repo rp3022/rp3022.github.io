@@ -1,70 +1,9 @@
 ---
-title: "Resume"
+title: "Plotly"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
-
-## Academic qualifications and Professional experience experience
-
-### EDUCATION
-
-#### **Columbia University, Mailman School of Public Health, New York, NY**  				          May 2023
-
-**Master of Public Health in Epidemiology, Certificate in Applied Biostatistics & Public Health Data Science** GPA: 4.06
-
-  * Relevant Coursework:, Quantitative and qualitative research methods, Applied Regression, Epidemiologic research methods, Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives 
-
-#### **Goenka Research Institute Of Dental Sciences**                                       September 2019
-
-**Bachelor of Dental Surgery (BDS)**
-
-* Graduated among top 5% of the class
-* Organized Dental check-up camps and awareness campaigns in rural areas, Cultural committee member , management committee of CDE programs
-
-
-### PROFESSIONAL EXPERIENCE
-#### Mailman School Of Public Health
-**Graduate Research Assistant, New York, USA**	July 2022- present
-
-  * Using epidemiologic analytical methods to assess biomarker measurements for alcohol use. 
-  * Extracted and reviewed data from over 100 articles and clinical trials for data compilation and analyses
-
-**Data Research Analyst Intern**	June-September 2022
-
-  * Analyzed trends of marijuana use and risk perceptions among 1,359,169 high-school students in the U.S. by running a piecewise regression model from 1991-2020 using Monitoring The Future(MTF) survey Database
-  * Independently conducted data compilation, coding, statistical analysis, and data visualization using SAS 9.4 and R 4.2.1
-
-
-#### Janvikas
-**GDA program coordinator – Health Care, Gujarat, India**	March - August 2021
-
-  * Served as a facilitator and co-ordinator for program participants from economically underprivileged areas of Gujarat
-  * Developed a survey for data analyses of healthcare facilities and disease prevalence to improve health status of rural Gujarat
-  * Effectively tutored over 100 participants, conducted lectures and designed a study guidebook within the duration of 6 months
-
-#### Shraddhadeep Dental Clinic
-**Associate Dentist, Gujarat, India**	October 2019 - September 2020
-
-  * Participated in routine clinical procedures like diagnosis, treatment planning and performing minor surgical procedures   * Performed duties involving patient reception, scheduling appointments, and overlooking inventory
-
-#### Goenka Research Institute of Dental Sciences 
-**Dental Intern, Gujarat, India**	September2018 - October2019 
-
-  * Successfully diagnosed and treated over 1000 patients during a 12-month internship program and effectively managed patient database of over 5000 patients
-  * Collected and analyzed data for OSMF prevalence in rural areas, developed infographics on common prevalent dental conditions in villages 
-  
-### COMMUNITY SERVICE & INVOLVEMENT
-
-#### Kalpaseva Arogya Kendra (NGO)	October 2019 - March 2020
-  * Efficiently managed high volume of patients and provided free diagnosis and treatment to patients at Kalpaseva Arogya Kendra
-
-### SKILLS AND CERTIFICATIONS
-* Strong knowledge of MS Office and GitHub
-* Statistical and research software : SAS (expert), R (intermediate), STATA (beginner)
-* Certifications: ICH-GCP certification, HIPAA certification, Registered Dentist GDC
-
-
-
+I created a flexdashboard using plotly
 
