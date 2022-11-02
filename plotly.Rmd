@@ -5,5 +5,71 @@ output:
     toc: true
     toc_float: true
 ---
-I created a flexdashboard using plotly
+I created plots using plotly
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+
+library(plotly)
+```
+
+```{r}
+data(nyc_airbnb)
+
+nyc_airbnb = 
+  nyc_airbnb %>% 
+  mutate(rating = review_scores_location / 2) %>%
+  select(
+    neighbourhood_group, neighbourhood, rating, price, room_type, lat, long) %>%
+  filter(
+    !is.na(rating), 
+    neighbourhood_group == "Manhattan",
+    room_type == "Entire home/apt",
+    price %in% 100:500)
+```
+```{r}
+
+```
+
+```{r}
+data ("ny_noaa")
+
+ny_tidy = ny_noaa %>% 
+  janitor::clean_names() %>%
+  sample_n(10000) %>% 
+  separate (col = date, into = c("year", "month", "day"), sep = '-', convert = TRUE) %>% 
+  mutate(month = month.abb[month],
+         tmax = as.numeric(tmax),
+         tmin = as.numeric(tmin),
+         prcp = prcp/10) %>% 
+  select (id, year, month, day, everything()) %>%
+  mutate(tmax = tmax/10, tmin = tmin/10)
+
+```
+```{r}
+tmin_max_plot = ny_tidy %>% 
+  mutate(text_label = str_c("Month", month)) %>% 
+  plot_ly(
+    x = ~tmin, y = ~tmax, type= "scatter", mode = "markers", color= ~month, text = t~text_label, alpha =0.5, colors = "viridis")
+tmin_max_plot
+```
+```{r}
+tmax = ny_tidy %>%
+  mutate (month = fct_reorder(month, tmax)) %>% 
+  plot_ly(y = ~tmax, color= ~month, type ="box", colors= "viridis") 
+tmax
+  
+```
+```{r}
+snow = ny_tidy %>%
+  filter(snow>0 & snow<100, 
+         year %in% 2005:2010) %>% 
+  plot_ly(x= ~year, y =~snow, color =~month, type ="bar", colors = "viridis")
+
+snow
+```
+
+
+
+
 
