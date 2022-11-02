@@ -15,6 +15,6 @@ This website was created by me to provide you with an insight of my academic bac
 It includes links for navigating to my GitHub account, LinkedIn and my email address. It also includes my Resume and a flexdashboard I created.
 
 
-Here's a direct link to my [Resume](about.html)
+Here's a direct link to my [Resume](Resume.html)
 
 
