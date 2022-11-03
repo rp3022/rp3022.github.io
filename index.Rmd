@@ -6,9 +6,7 @@ output:
     toc_float: true
 ---
 
-# This is Rhea Pawar's website
-
-#### Welcome to my website!
+### Welcome to my website!
 I am a dentist from India and am currently in the 2nd year of the MPH program at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/).
 
 This website was created by me to provide you with an insight of my academic background and professional experience.

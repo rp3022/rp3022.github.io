@@ -44,12 +44,16 @@ tmax
   
 ```
 ```{r}
-snow = ny_tidy %>%
-  filter(snow>0 & snow<100, 
-         year %in% 2005:2010) %>% 
-  plot_ly(x= ~year, y =~snow, color =~month, type ="bar", colors = "viridis")
+precip = ny_tidy %>%
+  filter(year %in% 2005:2010) %>% 
+  plot_ly(x= ~year, y =~prcp, color =~month, type ="bar", colors = "viridis") %>% 
+  layout(
+    title = " Monthly maximum precipitation across 5 years(2005-2010)",
+    xaxis = list(title = "year"),
+    yaxis = list(title = "Max precipitation (mm)")
+  )
 
-snow
+precip
 ```
 
 
