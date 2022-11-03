@@ -13,23 +13,6 @@ library(p8105.datasets)
 library(plotly)
 ```
 
-```{r}
-data(nyc_airbnb)
-
-nyc_airbnb = 
-  nyc_airbnb %>% 
-  mutate(rating = review_scores_location / 2) %>%
-  select(
-    neighbourhood_group, neighbourhood, rating, price, room_type, lat, long) %>%
-  filter(
-    !is.na(rating), 
-    neighbourhood_group == "Manhattan",
-    room_type == "Entire home/apt",
-    price %in% 100:500)
-```
-```{r}
-
-```
 
 ```{r}
 data ("ny_noaa")

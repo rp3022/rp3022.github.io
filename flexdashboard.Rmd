@@ -13,27 +13,68 @@ library(plotly)
 library(flexdashboard)
 ```
 
+```{r, include=FALSE}
+data ("ny_noaa")
+
+ny_tidy = ny_noaa %>% 
+  janitor::clean_names() %>%
+  sample_n(10000) %>% 
+  separate (col = date, into = c("year", "month", "day"), sep = '-', convert = TRUE) %>% 
+  mutate(month = month.abb[month],
+         tmax = as.numeric(tmax),
+         tmin = as.numeric(tmin),
+         prcp = prcp/10) %>% 
+  select (id, year, month, day, everything()) %>%
+  mutate(tmax = tmax/10, tmin = tmin/10)
+
+```
+
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A 
 
 ```{r}
-
+tmin_max_plot = ny_tidy %>% 
+  mutate(text_label = str_c("Month", month)) %>% 
+  plot_ly(
+    x = ~tmin, y = ~tmax, type= "scatter", mode = "markers", color= ~month, text = t~text_label, alpha =0.5, colors = "viridis") %>% 
+  layout(
+    title = "Scatterplot of tmax vs tmin",
+    xaxis = list(title = "min temperature(C)"),
+    yaxis = list(title = "max temperature (C)")
+  )
+tmin_max_plot
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B 
 
 ```{r}
-
+tmax = ny_tidy %>%
+  plot_ly(y = ~tmax, color= ~month, type ="box", colors= "viridis") %>%
+  layout(
+    title = " Maximum temperatures across each month",
+    yaxis = list(title = "Max temperature(c)")
+  )
+   
+tmax
 ```
 
-### Chart C
+### Chart C 
 
 ```{r}
+precip = ny_tidy %>%
+  filter(year %in% 2005:2010) %>% 
+  plot_ly(x= ~year, y =~prcp, color =~month, type ="bar", colors = "viridis") %>% 
+  layout(
+    title = " Monthly maximum precipitation across 5 years(2005-2010)",
+    xaxis = list(title = "year"),
+    yaxis = list(title = "Max precipitation (mm)")
+  )
 
+precip
 ```
 
