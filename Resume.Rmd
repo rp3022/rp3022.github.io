@@ -6,15 +6,20 @@ output:
     toc_float: true
 ---
 
-## Academic qualifications and Professional experience experience
+## Academic qualifications and Professional experience
 
 ### EDUCATION
 
 #### **Columbia University, Mailman School of Public Health, New York, NY**  				          May 2023
 
-**Master of Public Health in Epidemiology, Certificate in Applied Biostatistics & Public Health Data Science** GPA: 4.06
+**Master of Public Health in Epidemiology, Certificate in Applied Biostatistics & Public Health Data Science** GPA: 4.05
 
-  * Relevant Coursework:, Quantitative and qualitative research methods, Applied Regression, Epidemiologic research methods, Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives 
+  * Relevant Coursework:  Machine Learning, Data Science, FDA- New Drug Development, Geographic Information Surveillance (GIS), Applied Regression, Survival Analysis, Cox-model Analysis, Qualitative and Quantitative Research Methods,  Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives, Health Economics, Global and Developmental Perspectives, Global Mental Health
+  
+  * Course Projects:
+    * Developed a website using R studio: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/index.html
+    
+  ** Association between Smoking and Cholesterol levels: Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
 
 #### **Goenka Research Institute Of Dental Sciences**                                       September 2019
 
