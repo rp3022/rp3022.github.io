@@ -17,11 +17,11 @@ output:
   * Relevant Coursework:  Machine Learning, Data Science, FDA- New Drug Development, Geographic Information Surveillance (GIS), Applied Regression, Survival Analysis, Cox-model Analysis, Qualitative and Quantitative Research Methods,  Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives, Health Economics, Global and Developmental Perspectives, Global Mental Health
   
   * Course Projects:
-    * Developed a website using R studio and R shiny: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/About.html
-    * Association between Smoking and Cholesterol levels: Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
-    * Impact of Policy Change on Infant Mortality: Assessed the effects of fiscal decentralization in India on Infant mortality rates. Collected survey data and census data for a “pre/post” analysis. Leveraged Excel for data visualization 
-    * Used CLAIMS tool to systematically assess and summarize the study’s strength of causal inference, including generalizability, potential confounders, and methods used
-    * Created a map using QGIS to analyze 10-year change in the median earnings gap by gender across states in USA.
+    * **Developed a website using R studio and R shiny**: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/About.html
+    * **Association between Smoking and Cholesterol levels** : Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
+    * *Impact of Policy Change on Infant Mortality*: Assessed the effects of fiscal decentralization in India on Infant mortality rates. Collected survey data and census data for a “pre/post” analysis. Leveraged Excel for data visualization 
+    * Used **CLAIMS tool** to systematically assess and summarize the study by [Chibanda et. al](https://jamanetwork.com/journals/jama/fullarticle/2594719) and evaluate the study's strength of causal inference, including generalizability, potential confounders, and methods used
+    * Utilized **QGIS to develop a map** for analyzing the 10-year change in the median earnings gap by gender across states in the USA. Also authored a poster on this topic for a public health GIS course.
 
 #### **Goenka Research Institute Of Dental Sciences**                                       September 2019
 
@@ -35,7 +35,7 @@ output:
 #### Mailman School Of Public Health
 **Graduate Research Assistant, New York, USA**	July 2022- present
 
-  * Conducted a targetted literature review search to identify clinical trials and publications that utilised biomarkers to assess alcohol use with an intervention component
+  * Conducted a targeted literature review search to identify clinical trials and publications that utilised biomarkers to assess alcohol use with an intervention component
   * Processed and manipulated data to produce a descriptive statistics report evaluating biomarker and self-report measures for
 alcohol use with the findings to be published in a forthcoming scoping review
   * Contributed to the development of future publications by conducting a comprehensive review of ~200 articles and clinical trials,
@@ -43,8 +43,8 @@ meticulously extracting data from 80 articles and clinical trials for data compi
 
 **Data Research Analyst Intern**	June-September 2022
 
-  * Analyzed trends of marijuana use and risk perceptions among 1,359,169 high-school students in the U.S. by running a piecewise regression model from 1991-2020 using Monitoring The Future(MTF) survey Database
-  * Independently conducted data compilation, coding, statistical analysis, and data visualization using SAS 9.4 and R 4.2.1
+  * Conducted a piecewise regression analysis on the Monitoring The Future (MTF) survey database to analyze trends in marijuana use and risk perceptions among 1,359,169 high school students in the U.S. from 1991-2020.
+  * Independently performed end-to-end data management and analysis, including data compilation, coding, statistical analysis, and data visualization using SAS 9.4 and R 4.2.1
 
 
 #### Janvikas
@@ -58,7 +58,8 @@ meticulously extracting data from 80 articles and clinical trials for data compi
 #### Shraddhadeep Dental Clinic
 **Associate Dentist, Gujarat, India**	October 2019 - September 2020
 
-  * Participated in routine clinical procedures like diagnosis, treatment planning and performing minor surgical procedures   * Performed duties involving patient reception, scheduling appointments, and overlooking inventory
+  * Participated in routine clinical procedures like diagnosis, treatment planning and performing minor surgical procedures
+  * Performed duties involving patient reception, scheduling appointments, and overlooking inventory
 
 #### Goenka Research Institute of Dental Sciences 
 **Dental Intern, Gujarat, India**	September2018 - October2019 
