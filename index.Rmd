@@ -7,7 +7,8 @@ output:
 ---
 
 ### Welcome to my website!
-I am a dentist from India and am currently in the 2nd year of the MPH program at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/).
+
+My career began as a dentist in India, where I gained two years of valuable clinical experience. However, I soon realized that my calling extended beyond the traditional boundaries of the dental profession. Driven by a passion to impact public health on a larger scale, I joined an NGO, which ultimately led me to pursue a Master of Public Health Degree at [Mailman School Of Public Health](https://www.publichealth.columbia.edu/) with a major in epidemiology. As I progressed through the program, I discovered my aptitude for data analytics and eagerly pursued a certificate in biostatistics and healthcare data science. Armed with a diverse skill set and unique perspective from my clinical background, I am uniquely equipped to approach public health challenges from multiple angles. As a staunch advocate for health equity and evidence-based decision-making, I am committed to advancing public health through data-driven approaches.
 
 This website was created by me to provide you with an insight of my academic background and professional experience.
 It includes links for navigating to my GitHub account, LinkedIn and my email address. It also includes my Resume and a flexdashboard I created.

@@ -17,9 +17,11 @@ output:
   * Relevant Coursework:  Machine Learning, Data Science, FDA- New Drug Development, Geographic Information Surveillance (GIS), Applied Regression, Survival Analysis, Cox-model Analysis, Qualitative and Quantitative Research Methods,  Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives, Health Economics, Global and Developmental Perspectives, Global Mental Health
   
   * Course Projects:
-    * Developed a website using R studio: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/index.html
-    
-  ** Association between Smoking and Cholesterol levels: Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
+    * Developed a website using R studio and R shiny: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/About.html
+    * Association between Smoking and Cholesterol levels: Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
+    * Impact of Policy Change on Infant Mortality: Assessed the effects of fiscal decentralization in India on Infant mortality rates. Collected survey data and census data for a “pre/post” analysis. Leveraged Excel for data visualization 
+    * Used CLAIMS tool to systematically assess and summarize the study’s strength of causal inference, including generalizability, potential confounders, and methods used
+    * Created a map using QGIS to analyze 10-year change in the median earnings gap by gender across states in USA.
 
 #### **Goenka Research Institute Of Dental Sciences**                                       September 2019
 
@@ -33,8 +35,11 @@ output:
 #### Mailman School Of Public Health
 **Graduate Research Assistant, New York, USA**	July 2022- present
 
-  * Using epidemiologic analytical methods to assess biomarker measurements for alcohol use. 
-  * Extracted and reviewed data from over 100 articles and clinical trials for data compilation and analyses
+  * Conducted a targetted literature review search to identify clinical trials and publications that utilised biomarkers to assess alcohol use with an intervention component
+  * Processed and manipulated data to produce a descriptive statistics report evaluating biomarker and self-report measures for
+alcohol use with the findings to be published in a forthcoming scoping review
+  * Contributed to the development of future publications by conducting a comprehensive review of ~200 articles and clinical trials,
+meticulously extracting data from 80 articles and clinical trials for data compilation and analyses.
 
 **Data Research Analyst Intern**	June-September 2022
 
@@ -45,9 +50,10 @@ output:
 #### Janvikas
 **GDA program coordinator – Health Care, Gujarat, India**	March - August 2021
 
-  * Served as a facilitator and co-ordinator for program participants from economically underprivileged areas of Gujarat
-  * Developed a survey for data analyses of healthcare facilities and disease prevalence to improve health status of rural Gujarat
-  * Effectively tutored over 100 participants, conducted lectures and designed a study guidebook within the duration of 6 months
+  * Facilitated and coordinated healthcare workforce training program for 50-60 economically disadvantaged students in Gujarat, improving access to resources and employment opportunities, resulting in successful employment in  prestigious hospitals
+  * Designed and implemented a survey to analyze healthcare facilities and availability of resources, providing critical data to inform development of a telemedicine program aimed at improving health status of rural Gujarat
+  * Effectively tutored over 100 participants, conducted lectures and designed a study guidebook, all within a 6-month timeframe
+
 
 #### Shraddhadeep Dental Clinic
 **Associate Dentist, Gujarat, India**	October 2019 - September 2020
