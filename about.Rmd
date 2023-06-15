@@ -12,20 +12,33 @@ output:
 
 #### **Columbia University, Mailman School of Public Health, New York, NY**  				          May 2023
 
-**Master of Public Health in Epidemiology, Certificate in Applied Biostatistics & Public Health Data Science** GPA: 4.05
+**Master of Public Health in Epidemiology, Certificate in Applied Biostatistics & Public Health Data Science** GPA: 4.07
 
-  * Relevant Coursework:  Machine Learning, Data Science, FDA- New Drug Development, Geographic Information Surveillance (GIS), Applied Regression, Survival Analysis, Cox-model Analysis, Qualitative and Quantitative Research Methods,  Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives, Health Economics, Global and Developmental Perspectives, Global Mental Health
+  * ***Relevant Coursework***:  Machine Learning, Data Science, FDA- New Drug Development, Geographic Information Surveillance (GIS), Applied Regression, Survival Analysis, Cox-model Analysis, Qualitative and Quantitative Research Methods,  Analysis of categorical data, Program planning and evaluation, , Health Economics,  Determinants of health, Global and developmental perspectives, Health Economics, Global and Developmental Perspectives, Global Mental Health
   
-  * Course Projects:
+  * ***Course Projects***:
     * **Developed a website using R studio and R shiny**: Utilized advanced statistical techniques and conducted a stepwise AIC regression to evaluate association of Bechdel test scores with movie budget, profits and IMDB ratings. Collaborated with a team to develop a website for the final project of Data Science. https://sopochkon1.github.io/sheroes_finalproject.github.io/About.html
     * **Association between Smoking and Cholesterol levels** : Examined whether cholesterol is associated with the number of years an individual has smoked by conducting logistic regression using data from NHANES III data. Analysis was performed using SAS 9.4	
     * *Impact of Policy Change on Infant Mortality*: Assessed the effects of fiscal decentralization in India on Infant mortality rates. Collected survey data and census data for a “pre/post” analysis. Leveraged Excel for data visualization 
     * Used **CLAIMS tool** to systematically assess and summarize the study by [Chibanda et. al](https://jamanetwork.com/journals/jama/fullarticle/2594719) and evaluate the study's strength of causal inference, including generalizability, potential confounders, and methods used
     * Utilized **QGIS to develop a map** for analyzing the 10-year change in the median earnings gap by gender across states in the USA. Also authored a poster on this topic for a public health GIS course.
+    * **Leveraged Machine learning algorithms in R studio** to analyze SPARCS_2015 data that included over 670,000 observations to predict the likelihood of an extended hospital length of stay for patients based on various patient characteristics and conditions.
+    * **Thesis**: "Exploring Changing Trends in Marijuana Use and Risk Perceptions Among US Adolescents Over Three Decades: A Monitoring The Future Study (1991 - 2020)"
+    
+    
+  * ***Relevant Skills***:
+    * **Statistical Analysis**: Demonstrated proficiency in conducting Exploratory data analysis, generating Descriptive statistics, and performing analysis for causal inference and associations. Skilled in utilizing advanced statistical techniques such as multivariable regression, Poisson regression and Cox regression for epidemiological research and public health data analysis.
+    * **Statistical Programming**: Proficient in using SAS 9.4 and R studio for data manipulation, statistical analysis and generating reports. Skilled in uncovering insights from large datasets such as NHANES, MTF, SPARCS to inform evidence-based decision-making.
+    * **Research Methodology**: Well-versed in both qualitative and quantitative research methods, including performing systematic assessment of study designs, causal inference, generalizability, and potential confounders. Well versed with PubMed, Google Scholars to conduct targeted literature searches and literature reviews, critically appraising literature, and summarizing findings.
+    * **Data Science and Machine Learning**: Experienced in leveraging machine learning tools and algorithms for prediction modeling.
+    * **Data Visualization**: Proficient in using R studio and R Shiny to develop interactive dashboards, websites and graphs for presenting research findings effectively.
+    * **Drug Development and FDA compliance**: Possess a thorough understanding of the drug development and FDA approval process. Skilled in assessing guidance and regulatory documents entailing quality control, safety considerations, drug efficacy.
+    * **Geospatial Analysis**: Skilled in using QGIS and GeoDa software for creating geospatial maps and analyzing correlations between health indicators and geographic factors
+
 
 #### **Goenka Research Institute Of Dental Sciences**                                       September 2019
 
-**Bachelor of Dental Surgery (BDS)**
+**Bachelor of Dental Surgery (BDS)** GPA: 3.5
 
 * Graduated among top 5% of the class
 * Organized Dental check-up camps and awareness campaigns in rural areas, Cultural committee member , management committee of CDE programs
@@ -35,24 +48,24 @@ output:
 #### Mailman School Of Public Health
 **Graduate Research Assistant, New York, USA**	July 2022- present
 
-  * Conducted a targeted literature review search to identify clinical trials and publications that utilised biomarkers to assess alcohol use with an intervention component
-  * Processed and manipulated data to produce a descriptive statistics report evaluating biomarker and self-report measures for
-alcohol use with the findings to be published in a forthcoming scoping review
-  * Contributed to the development of future publications by conducting a comprehensive review of ~200 articles and clinical trials,
-meticulously extracting data from 80 articles and clinical trials for data compilation and analyses.
+  * Conducted comprehensive targeted literature searches and identified ~200 clinical trials and publications that utilized biomarkers to assess alcohol use in interventions. Meticulously extracted and synthesized data from the identified trials and publications, and the extensive literature review formed the foundation of one of the first scoping reviews in this area, set to be published soon.
+  * Performed thorough data analysis, generating descriptive statistics report and data visualizations to assess multiple facets biomarker use in interventions of alcohol use disorders. Effectively communicated the findings with stakeholders and the PI. The abstract summarizing the findings has been selected for presentation at the annual conference of the Research Society on Alcoholism in 2023.
+  * Strong written and oral communication skills demonstrated through drafting scientific manuscripts, abstracts, and research reports with a focus on clarity, accuracy, and adherence to scientific standards.
+
 
 **Data Research Analyst Intern**	June-September 2022
 
-  * Conducted a piecewise regression analysis on the Monitoring The Future (MTF) survey database to analyze trends in marijuana use and risk perceptions among 1,359,169 high school students in the U.S. from 1991-2020.
-  * Independently performed end-to-end data management and analysis, including data compilation, coding, statistical analysis, and data visualization using SAS 9.4 and R 4.2.1
+  * Developed a custom SAS macro to analyze extensive data from the Monitoring The Future (MTF) survey database, encompassing responses from over a million participants spanning the years 1991 to 2020, across 8th, 10th, and 12th grades. 
+  * Independently performed end-to-end data management and analysis, including data compilation, coding, statistical analysis, and data visualization using SAS 9.4, R Studio 4.2.1 and JoinPoint 4.9.1.0. This enabled identification of significant trends and patterns in youth behaviors of marijuana use, providing valuable insights for substance use policy and decision making.
+
 
 
 #### Janvikas
 **GDA program coordinator – Health Care, Gujarat, India**	March - August 2021
 
-  * Facilitated and coordinated healthcare workforce training program for 50-60 economically disadvantaged students in Gujarat, improving access to resources and employment opportunities, resulting in successful employment in  prestigious hospitals
-  * Designed and implemented a survey to analyze healthcare facilities and availability of resources, providing critical data to inform development of a telemedicine program aimed at improving health status of rural Gujarat
-  * Effectively tutored over 100 participants, conducted lectures and designed a study guidebook, all within a 6-month timeframe
+  * Led and coordinated a healthcare workforce training program targeting economically disadvantaged students in Gujarat, overseeing the successful training and placement of 150 participants in prestigious hospitals. Implemented strategic initiatives to improve curriculum, enhance employment opportunities and contribute to the region's healthcare workforce development.
+  * Designed and executed a comprehensive survey to assess healthcare facilities in rural Gujarat, identifying gaps in access to healthcare services. The survey results provided critical data for informing the implementation of a telemedicine program.
+  * Effectively tutored over 100 participants, conducted lectures and designed a study guidebook, all within a 6-month timeframe.
 
 
 #### Shraddhadeep Dental Clinic
@@ -74,7 +87,7 @@ meticulously extracting data from 80 articles and clinical trials for data compi
 
 ### SKILLS AND CERTIFICATIONS
 * Strong knowledge of MS Office and GitHub
-* Statistical and research software : SAS (expert), R (intermediate), STATA (beginner)
+* Statistical and research software : SAS (expert), R (intermediate), STATA (beginner), QGIS, GeoDa
 * Certifications: ICH-GCP certification, HIPAA certification, Registered Dentist GDC
 
 
