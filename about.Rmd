@@ -27,6 +27,7 @@ output:
     
     
   * ***Relevant Skills***:
+  
     * **Statistical Analysis**: Demonstrated proficiency in conducting Exploratory data analysis, generating Descriptive statistics, and performing analysis for causal inference and associations. Skilled in utilizing advanced statistical techniques such as multivariable regression, Poisson regression and Cox regression for epidemiological research and public health data analysis.
     * **Statistical Programming**: Proficient in using SAS 9.4 and R studio for data manipulation, statistical analysis and generating reports. Skilled in uncovering insights from large datasets such as NHANES, MTF, SPARCS to inform evidence-based decision-making.
     * **Research Methodology**: Well-versed in both qualitative and quantitative research methods, including performing systematic assessment of study designs, causal inference, generalizability, and potential confounders. Well versed with PubMed, Google Scholars to conduct targeted literature searches and literature reviews, critically appraising literature, and summarizing findings.
