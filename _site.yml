@@ -8,7 +8,7 @@ navbar:
     - text: "flexdashboard"
       href: flexdashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:<rp3022@columbia.edu>
+      href: mailto:<rp3022@caa.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/rp3022/
     - icon: fa-brands fa-linkedin
